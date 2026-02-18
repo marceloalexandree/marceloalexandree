@@ -5,17 +5,24 @@
 </p>
 
 ---
-## Sobre mim
 
-👨🏻‍🎓 Cursando Ciências Atuariais - Unifesp
-💻 Técnico em Informática
-💼 Ciência e Análise de Dados
+## 👨🏻‍💻 Sobre mim
+🎓 Estudante de **Ciências Atuariais — UNIFESP**  
+📊 Focado em **Ciência de Dados, Estatística e Análise de Risco**  
+💻 Técnico em Informática  
+📈 Interesse em modelagem estatística, seguros e finanças  
 
-## Tecnologias
-<div style="display: inline_block"><br>
+---
+## 🛠️ Tecnologias
+
+<div style="display: flex; gap: 20px"><br>
   <img align="center" height="40" width="40" alt="Python" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
   <img align="center" height="40" width="40" alt="SQL"  src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
   <img align="center" height="40" width="40" alt="Excel"  src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg"/>
   <img align="center" height="40" width="40" alt="Power BI"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1280px-New_Power_BI_Logo.svg.png"/>
   <img align="center" height="40" width="40" alt="Git"  src="https://devicon-website.vercel.app/api/git/original-wordmark.svg"></img>
 </div>
+
+## 🌐 Contato
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcelo-alexandre-filho)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:marceloalexandrefilhoo@gmail.com)
