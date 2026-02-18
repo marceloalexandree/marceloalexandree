@@ -6,16 +6,16 @@
 
 ---
 ## Sobre mim
+
 👨🏻‍🎓 Cursando Ciências Atuariais - Unifesp
 💻 Técnico em Informática
 💼 Ciência e Análise de Dados
 
----
 ## Tecnologias
 <div style="display: inline_block"><br>
-  <img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg"/>
-  <img src="https://devicon-website.vercel.app/api/git/original-wordmark.svg"></img>
-  
+  <img align="center" height="40" width="40" alt="Python" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+  <img align="center" height="40" width="40" alt="SQL"  src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
+  <img align="center" height="40" width="40" alt="Excel"  src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg"/>
+  <img align="center" height="40" width="40" alt="Power BI"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1280px-New_Power_BI_Logo.svg.png"/>
+  <img align="center" height="40" width="40" alt="Git"  src="https://devicon-website.vercel.app/api/git/original-wordmark.svg"></img>
 </div>
