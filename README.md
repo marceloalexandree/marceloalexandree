@@ -15,7 +15,7 @@
 ---
 ## 🛠️ Tecnologias
 
-<div style="display: flex; gap: 20px"><br>
+<div style="justify-content: space-evenly;"><br>
   <img align="center" height="40" width="40" alt="Python" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
   <img align="center" height="40" width="40" alt="SQL"  src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
   <img align="center" height="40" width="40" alt="Excel"  src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg"/>
